@@ -48,3 +48,5 @@ def guardar_metricas(metricas: Dict[str, float], ruta: str = "outputs/metrics.js
 
     print(f"Métricas guardadas en {ruta_salida}")
     print(json.dumps(metricas, indent=2, ensure_ascii=False))
+    
+    # Archivo modificado y listo para el Pull Request
