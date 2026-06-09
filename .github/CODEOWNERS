@@ -1,0 +1,15 @@
+# Responsable global del repositorio
+* @Sanmarquino
+
+# Código fuente
+/src/ @Sanmarquino
+/scripts/ @Sanmarquino
+
+# Tests
+/tests/ @Sanmarquino
+
+# Documentación
+/docs/ @Sanmarquino
+
+# Workflows y configuración de GitHub
+/.github/ @Sanmarquino
